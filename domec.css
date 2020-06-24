@@ -32,14 +32,16 @@ ul{
 
     color: #b0b0b0;
 }
-
-.float-left li {
+#topbar li{
+    float:left;
+}
+/* .float-left li {
     float: left;
 }
 
 .float-right li {
     float: right;
-}
+} */
 
 #topbar span {
     margin: 0 .3em;
